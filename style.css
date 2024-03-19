@@ -1,0 +1,27 @@
+body
+{
+ background:linear-gradient(black,grey,white) ;
+ background-repeat: no-repeat;
+}
+img{
+    height: 350px;
+    width: 250px;
+    margin-left: 625px;
+    margin-top: 50px;
+}
+
+input[type=submit]{
+    height: 50px;
+    width: 100px;
+    background: black;
+    color: white;
+    margin-left: 25px;
+}
+
+div{
+    margin-left: 610px;
+    margin-top: 20px;
+}
+h1{
+    color: bisque;
+}
